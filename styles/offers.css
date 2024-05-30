@@ -1,0 +1,21 @@
+.column-right {
+    float: right;
+}
+
+.sort {
+    width: 838px;
+    height: 23px;
+    float: right;
+}
+
+.nav-left {
+    float: left;
+}
+
+.nav-right {
+    float: right;
+}
+
+.card {
+    float: right;
+}

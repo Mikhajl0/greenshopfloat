@@ -1,0 +1,41 @@
+.column-left {
+    float: left;
+}
+
+.aside {
+    display: inline-block;
+    width: 310px;
+    height: 774px;
+    padding-top: 14px;
+    padding-left: 18px;
+    outline: 2px solid red;
+}
+
+.categories {
+    display: inline;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+
+.categories-name {
+    display: block;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 40px;
+    color: #3D3D3D;
+    padding-top: 7px;
+    padding-left: 12px;
+}
+
+.categories-name:hover {
+    color: #46A358;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}

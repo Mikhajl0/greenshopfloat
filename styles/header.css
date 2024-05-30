@@ -27,6 +27,14 @@
     display:inline-block;
     line-height: 20px;
 }
+/*
+.link:hover {
+    font-weight: 700;
+}*/
+
+.link:active {
+    color: #46A358;
+}
 
 .active {
     padding-bottom: 25px;
